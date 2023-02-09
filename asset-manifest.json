@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/props-project/static/css/main.0be56379.css",
+    "main.js": "/props-project/static/js/main.f49a81fe.js",
+    "static/media/83886781_569987830398455__n.jpg": "/props-project/static/media/83886781_569987830398455_425970406831161344_n.8d55e768846449239d73.jpg",
+    "static/media/turques-et-caiques.jpg": "/props-project/static/media/turques-et-caiques.bc4b505d785c1eebc7cc.jpg",
+    "index.html": "/props-project/index.html",
+    "main.0be56379.css.map": "/props-project/static/css/main.0be56379.css.map",
+    "main.f49a81fe.js.map": "/props-project/static/js/main.f49a81fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be56379.css",
+    "static/js/main.f49a81fe.js"
+  ]
+}
